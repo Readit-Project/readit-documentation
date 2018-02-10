@@ -1,11 +1,25 @@
 # Summary
 
-* [Introduction](README.md)
-	* [Command](introduction/command.md)
-	* [Command Line Tool](introduction/cli.md)
-* [Chapter 1](Chapter1/command.md)
-	* [Introduction to Readit](Chapter1/readit.md)
+* [Getting Started with Readit](README.md)
+
+* [Introduction](Chapter1/README.md)
+	* [Introduction to Readit](Chapter1/intro_to_readit.md)
 	
-* [Chapter 2](Chapter2/README.md)
-* [Chapter 3](Chapter3/README.md)
+* [Table Of Contents](Chapter2/README.md)
+* [Features](Chapter3/README.md)
+* [Installation]
+	* [Dependencies]
+	* [Packages]
+	* [Release Packages]
+	* [From Source]
+* [Running Command Line Interface/Library]
+* [Usage]
+	* [Command Line Options]
+* [Examples]
+* [How to Contribute]
+* [Project Structure]
+	* [Flowchart]
+	* [Modules]
+* [Collaborators]
+
 
